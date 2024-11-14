@@ -11,6 +11,7 @@
 /* User Selector Styling */
 .user-selector {
   margin-bottom: 30px;
+  margin-top:20px;
 }
 
 .user-selector select {
